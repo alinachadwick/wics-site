@@ -19,3 +19,23 @@ p {
     text-align: justify;
     font-size: 20px;
   }
+
+  /* .image {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+  } */
+
+ .intro {
+     color: whitesmoke;
+     font-size: 25px;
+     text-align: justify;
+      
+  }
+
+.contact {
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
