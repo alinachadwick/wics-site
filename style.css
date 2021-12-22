@@ -40,14 +40,14 @@ p {
     
 }
 
-.navigation {
+/* .navigation {
     padding: 40px 0px;
     position: relative;
     text-align: center;
     width: 100%;
- }
+ } */
 
- .navigation a {
+/*  .navigation a {
     background:darkseagreen;
     border: 1px solid darkseagreen;
     border-radius: 3px;
@@ -56,10 +56,18 @@ p {
     margin: 10px;
     padding: 14px;
     text-decoration: none;
-  }
+  } */
   
-  .navigation a:hover {
+/*   .navigation a:hover {
     background: white;
     border: 1px solid darkseagreen;
     color: darkseagreen;
-  }
+  } */
+
+header {
+  background-color: #466995;
+  border-bottom: 1px solid #466995;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
