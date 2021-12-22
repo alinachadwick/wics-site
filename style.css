@@ -1,11 +1,11 @@
-/* h1 {
+h1 {
     color: whitesmoke ;
     font-size: 40px;
     padding-top: 100px;
     width: 100%;
     font-family: 'Courier New';
     text-align: center;
-  } */
+  }
 
 body {
     background-color: black;  
@@ -46,6 +46,7 @@ header {
     position: relative;
     text-align: center;
     width: 100%;
+    display: inline-block;
  }  /* may have to remove this block */
 
  .navigation a {
