@@ -61,3 +61,11 @@ body {
   top:35px;
   left:85px;
 }
+
+.post1 {
+  position: absolute;
+  top: 200px;
+  left: 85px;
+  width: 10em;
+  height: 10em;
+}
